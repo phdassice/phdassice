@@ -1,9 +1,11 @@
 ### 嘿泥好 👋
 
-想學python?</br>
+想學Discord bot python?</br>
 我教你：</br>
 ```py
-print("lol")
+import discord
+from discord.ext import commands
+print('lol')
 ```
 </br></br>
 
