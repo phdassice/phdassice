@@ -11,5 +11,5 @@ print('lol')
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1049625838901010453)](https://discord.com/users/1049625838901010453)
 </br>
-[![my card](https://mycard.lol/static/img/616980692831698957.png/)](https://mycard.lol/card/616980692831698957)
-喔對,[這裡](https://discord.gg/YXgTBRHQbF)是我旗下的音樂機器人團隊 網站因為網域問題所以無法上線
+[![我的介紹網站](https://nonametw.com/assets/jdHDXvC.gif)](https://nonametw.com)
+喔對,[這裡](https://mc.nonametw.com)是我旗下的Minecraft伺服器
