@@ -11,5 +11,5 @@ print('lol')
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1049625838901010453)](https://discord.com/users/1049625838901010453)
 </br>
-[![我的介紹網站](https://nonametw.com)
+[我的介紹網站](https://nonametw.com)
 喔對,[這裡](https://mc.nonametw.com)是我旗下的Minecraft伺服器
