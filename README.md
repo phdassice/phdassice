@@ -16,6 +16,6 @@ print('lol')
 
 ![phdassice GitHub stats](https://github-readme-stats.vercel.app/api?username=phdassice&theme=chartreuse-dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdassice&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdassice&layout=compact&theme=chartreuse-dark&show_icons=true)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phdassice&repo=youtube-ad-block&theme=cobalt&show_icons=true)
