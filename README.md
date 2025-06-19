@@ -18,4 +18,4 @@ print('lol')
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdassice&layout=compact)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phdassice&repo=youtube-ad-block)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phdassice&repo=youtube-ad-block&theme=cobalt&show_icons=true)
