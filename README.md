@@ -15,3 +15,5 @@ print('lol')
 喔對,[這裡](https://mc.nonametw.com)是我旗下的Minecraft伺服器
 
 ![phdassice GitHub stats](https://github-readme-stats.vercel.app/api?username=phdassice)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdassice)
